@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-)fzwe$i=su3z3&+hz$u-#rc-6ktwsg0yl6ma!=*@-44-u-wtw3
 DEBUG = True
 
 ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS')
-ALLOWED_HOSTS = ['trackingnotes.onrender.com', 'proyectofinalpweb-kpc2.onrender.com']
+ALLOWED_HOSTS = ['trackingnotes.onrender.com', 'proyectofinalpweb-wj2l.onrender.com']
 
 # Application definition
 
